@@ -1,0 +1,31 @@
+"","league_id","team_name","team_id","ra","rs","diff","wins","losses"
+"1",103,"New York Yankees",147,567,807,240,99,63
+"2",103,"Toronto Blue Jays",141,679,775,96,92,70
+"3",103,"Tampa Bay Rays",139,614,666,52,86,76
+"4",103,"Baltimore Orioles",110,688,674,-14,83,79
+"5",103,"Boston Red Sox",111,787,735,-52,78,84
+"6",103,"Cleveland Guardians",114,634,698,64,92,70
+"7",103,"Chicago White Sox",145,717,686,-31,81,81
+"8",103,"Minnesota Twins",142,684,696,12,78,84
+"9",103,"Detroit Tigers",116,713,557,-156,66,96
+"10",103,"Kansas City Royals",118,810,640,-170,65,97
+"11",103,"Houston Astros",117,518,737,219,106,56
+"12",103,"Seattle Mariners",136,623,690,67,90,72
+"13",103,"Los Angeles Angels",108,668,623,-45,73,89
+"14",103,"Texas Rangers",140,743,707,-36,68,94
+"15",103,"Oakland Athletics",133,770,568,-202,60,102
+"16",104,"Atlanta Braves",144,609,789,180,101,61
+"17",104,"New York Mets",121,606,772,166,101,61
+"18",104,"Philadelphia Phillies",143,685,747,62,87,75
+"19",104,"Miami Marlins",146,676,586,-90,69,93
+"20",104,"Washington Nationals",120,855,603,-252,55,107
+"21",104,"St. Louis Cardinals",138,637,772,135,93,69
+"22",104,"Milwaukee Brewers",158,688,725,37,86,76
+"23",104,"Chicago Cubs",112,731,657,-74,74,88
+"24",104,"Cincinnati Reds",113,815,648,-167,62,100
+"25",104,"Pittsburgh Pirates",134,817,591,-226,62,100
+"26",104,"Los Angeles Dodgers",119,513,847,334,111,51
+"27",104,"San Diego Padres",135,660,705,45,89,73
+"28",104,"San Francisco Giants",137,697,716,19,81,81
+"29",104,"Arizona Diamondbacks",109,740,702,-38,74,88
+"30",104,"Colorado Rockies",115,873,698,-175,68,94
